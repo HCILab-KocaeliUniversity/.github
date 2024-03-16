@@ -32,62 +32,22 @@
 
 ## ⚙️ Cihazlar (Devices)
 
-
-<a href="https://avesis.kocaeli.edu.tr/arastirma-grubu/ibel/cihaz/92/emotiv-epoc-14-kanalli-kablosuz-eeg-baslik">
-<img
-  src="https://github.com/HCILab-KocaeliUniversity/HCILab-KocaeliUniversity/blob/main/Media/devices/EmotivEpoc%2B.png"
-  alt="EmotivEPOC+"
-  title="EmotivEPOC+"
-  style="display: inline-block; float: left; margin-right: 60px; max-width: 80px"></a>
-
-  
-### Emotiv EPOC+
-
-* 14 Kanallı Emotiv Epoc+ EEG başlığı kullanılarak gerçekleştirilecektir.
-* AF3, F7, F3, FC5, T7, P7, O1, O2, P8, T8, FC6, F4, F8, AF4
-* Örneklem oranı 128 Hz 
-* Tuzlu su bazlı ıslak sensörler
-* Kablosuz bluetooth bağlantı
-* Emotiv PRO
-* 📃 Daha fazla bilgi almak için: [Emotiv Epoc+ Avesis sayfası](https://avesis.kocaeli.edu.tr/arastirma-grubu/ibel/cihaz/92/emotiv-epoc-14-kanalli-kablosuz-eeg-baslik)
+| <a href="https://avesis.kocaeli.edu.tr/arastirma-grubu/ibel/cihaz/92/emotiv-epoc-14-kanalli-kablosuz-eeg-baslik"><img src="https://github.com/HCILab-KocaeliUniversity/HCILab-KocaeliUniversity/blob/main/Media/devices/EmotivEpoc%2B.png" alt="EmotivEPOC+" title="EmotivEPOC+" width="120" ></a> | <a href="https://avesis.kocaeli.edu.tr/arastirma-grubu/ibel/cihaz/93/neursosky-mindwave-mobil-2-eeg-baslik"><img src="https://github.com/HCILab-KocaeliUniversity/HCILab-KocaeliUniversity/blob/main/Media/devices/NeursoSkyMindWave.png" alt="NeursoSkyMindWave" title="NeursoSkyMindWave" width="120"></a> | <a href="https://avesis.kocaeli.edu.tr/arastirma-grubu/ibel/cihaz/94/myo-kol-bandi"><img src="https://github.com/HCILab-KocaeliUniversity/HCILab-KocaeliUniversity/blob/main/Media/devices/MYOKolBand%C4%B1.png" alt="MYOKolBandı+" title="MYOKolBandı" width="120"></a> |
+|:--:|:--:|:--:|
+| **Emotiv EPOC+** | **NeuroSky MindWave** | **Myo Armband** |
+| 14 Kanallı Emotiv Epoc+ EEG başlığı kullanılarak gerçekleştirilecektir. | Elektrot türü: Kuru | Yüzey EMG (sEMG) ve IMU sensörleri bulunur. |
+| AF3, F7, F3, FC5, T7, P7, O1, O2, P8, T8, FC6, F4, F8, AF4 | Elektrot sayısı: 1 | EMG verileri 200 Hz örnekleme hızında 8 sensörle toplanır. |
+| Örneklem oranı 128 Hz | Kanal Bilgisi: FP1 | IMU verileri ise 50 Hz örnekleme hızında 9 sensörle alınır. |
+| Tuzlu su bazlı ıslak sensörler | Ağırlığı: 90 g | IMU'da 3 eksenli jiroskop, 3 eksenli ivmeölçer ve 3 eksenli manyetometre bulunur. |
+| Kablosuz bluetooth bağlantı | Örneklem Hızı (Hz): 512 | Cihaz, katılımcıların kas hareketlerindeki elektriksel aktiviteyi algılar ve Bluetooth aracılığıyla bilgisayar ortamına aktarır. |
+| Emotiv PRO | Bağlantı Şekli: Kablosuz bluetooth | Bu sinyaller üzerinde işlemler yapabilmek için Myo SDK'sı gereklidir. |
+| [ 📃Daha fazla bilgi almak için](https://avesis.kocaeli.edu.tr/arastirma-grubu/ibel/cihaz/92/emotiv-epoc-14-kanalli-kablosuz-eeg-baslik) | [ 📃Daha fazla bilgi almak için](https://avesis.kocaeli.edu.tr/arastirma-grubu/ibel/cihaz/93/neursosky-mindwave-mobil-2-eeg-baslik) | [📃 Daha fazla bilgi almak için](https://avesis.kocaeli.edu.tr/arastirma-grubu/ibel/cihaz/94/myo-kol-bandi) |
 
 
-<a href="https://avesis.kocaeli.edu.tr/arastirma-grubu/ibel/cihaz/93/neursosky-mindwave-mobil-2-eeg-baslik">
-<img
-  src="https://github.com/HCILab-KocaeliUniversity/HCILab-KocaeliUniversity/blob/main/Media/devices/NeursoSkyMindWave.png"
-  alt="NeursoSkyMindWave"
-  title="NeursoSkyMindWave"
-  style="display: inline-block; float: left; margin-right: 60px; max-width: 80px">
-</a>
 
-### NeuroSky MindWave
 
-* Elektrot türü: Kuru 
-* Elektrot sayısı:1
-* Kanal Bilgisi: FP1
-* Ağırlığı:90 g 
-* Örneklem Hızı (Hz): 512 
-* Bağlantı Şekli: Kablosuz bluetooth
-* Performans Metrikleri: Dikkat, rahatlama
-* 📃 Daha fazla bilgi almak için: [NeuroSky MindWave Avesis sayfası](https://avesis.kocaeli.edu.tr/arastirma-grubu/ibel/cihaz/93/neursosky-mindwave-mobil-2-eeg-baslik)
 
-<a href="https://avesis.kocaeli.edu.tr/arastirma-grubu/ibel/cihaz/94/myo-kol-bandi">
-<img
-  src="https://github.com/HCILab-KocaeliUniversity/HCILab-KocaeliUniversity/blob/main/Media/devices/MYOKolBand%C4%B1.png"
-  alt="MYOKolBandı+"
-  title="MYOKolBandı"
-  style="display: inline-block; float: left; margin-right: 60px; max-width: 80px">
-</a>
 
-### Myo Armband
-
-* Yüzey EMG (sEMG) ve IMU sensörleri bulunur.
-* EMG verileri 200 Hz örnekleme hızında 8 sensörle toplanır.
-* IMU verileri ise 50 Hz örnekleme hızında 9 sensörle alınır.
-* IMU'da 3 eksenli jiroskop, 3 eksenli ivmeölçer ve 3 eksenli manyetometre bulunur.
-* Cihaz, katılımcıların kas hareketlerindeki elektriksel aktiviteyi algılar ve Bluetooth aracılığıyla bilgisayar ortamına aktarır.
-* Bu sinyaller üzerinde işlemler yapabilmek için Myo SDK'sı gereklidir.
-* 📃 Daha fazla bilgi almak için: [Myo Armband Avesis sayfası](https://avesis.kocaeli.edu.tr/arastirma-grubu/ibel/cihaz/94/myo-kol-bandi)
 
 ## 👩‍🏫 Aktif Üyelerimiz (Active Members)
 
