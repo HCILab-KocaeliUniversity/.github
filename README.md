@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/HCILab-KocaeliUniversity"><img src="https://raw.githubusercontent.com/HCILab-KocaeliUniversity/HCILab-KocaeliUniversity/main/Media/imgs/logo.png?token=GHSAT0AAAAAACO643AUGPCIUY4BYB3N4S4OZPVI34Q" alt="Human Computer Interface Laboratory Kocaeli University" width="200"></a>
+  <a href="https://github.com/HCILab-KocaeliUniversity"><img src="https://github.com/HCILab-KocaeliUniversity/HCILab-KocaeliUniversity/blob/main/Media/logo/HCI-IBEL.png" alt="Human Computer Interface Laboratory Kocaeli University" width="200"></a>
   <br>
   <br>
   Human Computer Interface Laboratory Kocaeli University
@@ -35,7 +35,7 @@
 
 <a href="https://avesis.kocaeli.edu.tr/arastirma-grubu/ibel/cihaz/92/emotiv-epoc-14-kanalli-kablosuz-eeg-baslik">
 <img
-  src="https://raw.githubusercontent.com/HCILab-KocaeliUniversity/HCILab-KocaeliUniversity/main/Media/devices/EmotivEpoc%2B.png?token=GHSAT0AAAAAACO643AUH7NC2A7TR4YWVTWUZPVLZEQ"
+  src="https://github.com/HCILab-KocaeliUniversity/HCILab-KocaeliUniversity/blob/main/Media/devices/EmotivEpoc%2B.png"
   alt="EmotivEPOC+"
   title="EmotivEPOC+"
   style="display: inline-block; float: left; margin-right: 60px; max-width: 140px"></a>
@@ -54,7 +54,7 @@
 
 <a href="https://avesis.kocaeli.edu.tr/arastirma-grubu/ibel/cihaz/93/neursosky-mindwave-mobil-2-eeg-baslik">
 <img
-  src="https://raw.githubusercontent.com/HCILab-KocaeliUniversity/HCILab-KocaeliUniversity/main/Media/devices/NeursoSkyMindWave.png?token=GHSAT0AAAAAACO643AVRVTLGBK7BT3OQHRUZPVLZHQ"
+  src="https://github.com/HCILab-KocaeliUniversity/HCILab-KocaeliUniversity/blob/main/Media/devices/MYOKolBand%C4%B1.png"
   alt="NeursoSkyMindWave"
   title="NeursoSkyMindWave"
   style="display: inline-block; float: left; margin-right: 60px; max-width: 100px">
@@ -73,7 +73,7 @@
 
 <a href="https://avesis.kocaeli.edu.tr/arastirma-grubu/ibel/cihaz/94/myo-kol-bandi">
 <img
-  src="https://raw.githubusercontent.com/HCILab-KocaeliUniversity/HCILab-KocaeliUniversity/main/Media/devices/MYOKolBand%C4%B1.png?token=GHSAT0AAAAAACO643AUWFXASFZ7C557OVI6ZPVLZGA"
+  src="https://github.com/HCILab-KocaeliUniversity/HCILab-KocaeliUniversity/blob/main/Media/devices/MYOKolBand%C4%B1.png"
   alt="MYOKolBandı+"
   title="MYOKolBandı"
   style="display: inline-block; float: left; margin-right: 60px; max-width: 100px">
