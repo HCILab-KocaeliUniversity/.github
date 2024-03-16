@@ -38,7 +38,7 @@
   src="https://github.com/HCILab-KocaeliUniversity/HCILab-KocaeliUniversity/blob/main/Media/devices/EmotivEpoc%2B.png"
   alt="EmotivEPOC+"
   title="EmotivEPOC+"
-  style="display: inline-block; float: left; margin-right: 60px; max-width: 140px"></a>
+  style="display: inline-block; float: left; margin-right: 60px; max-width: 80px"></a>
 
   
 ### Emotiv EPOC+
@@ -54,10 +54,10 @@
 
 <a href="https://avesis.kocaeli.edu.tr/arastirma-grubu/ibel/cihaz/93/neursosky-mindwave-mobil-2-eeg-baslik">
 <img
-  src="https://github.com/HCILab-KocaeliUniversity/HCILab-KocaeliUniversity/blob/main/Media/devices/MYOKolBand%C4%B1.png"
+  src="https://github.com/HCILab-KocaeliUniversity/HCILab-KocaeliUniversity/blob/main/Media/devices/NeursoSkyMindWave.png"
   alt="NeursoSkyMindWave"
   title="NeursoSkyMindWave"
-  style="display: inline-block; float: left; margin-right: 60px; max-width: 100px">
+  style="display: inline-block; float: left; margin-right: 60px; max-width: 80px">
 </a>
 
 ### NeuroSky MindWave
@@ -76,7 +76,7 @@
   src="https://github.com/HCILab-KocaeliUniversity/HCILab-KocaeliUniversity/blob/main/Media/devices/MYOKolBand%C4%B1.png"
   alt="MYOKolBandı+"
   title="MYOKolBandı"
-  style="display: inline-block; float: left; margin-right: 60px; max-width: 100px">
+  style="display: inline-block; float: left; margin-right: 60px; max-width: 80px">
 </a>
 
 ### Myo Armband
