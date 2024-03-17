@@ -13,6 +13,7 @@
 İBEL *(HCIL)* bünyesinde insanlar için kullanışlı ve kullanılabilir arayüzlerin nasıl geliştirileceğine yönelik araştırmaların yapılması hedeflenmektedir. Laboratuvarın çalışmaları içerisinde teknolojinin insanları ve toplumu nasıl etkilediğinin anlaşılması amacıyla bilgisayar sistemlerinin tasarlanmasından, geliştirilmesine ve sonrasında değerlendirilmesine kadar çeşitli fazlar ile ilgili aktiviteler gerçekleştirilmektedir.
 
 ## 🔎 Başlıca Araştırma Alanları (Main Research Areas)
+
 * Kullanılabilirlik ve Yazılım Mühendisliği 
 * Kullanıcı Deneyimi
 * Kullanıcı Deneyimi Tasarımı
@@ -28,7 +29,24 @@
 * Web uygulamaları ve e-devlet kullanıcı arayüzleri 
 * Mobilite, Mobil Erişilebilirlik, Mobil Cihazlar (Mobility/* Mobile Accessibility/Mobile Devices)
 
-## 👩‍💻 Çalışmalar (Studies)
+## 👩‍🏫 Çalışmalar ve  Aktif Üyelerimiz (Studies and Active Members)
+
+<img src="https://github.com/HCILab-KocaeliUniversity/.github/blob/main/Media/imgs/%C3%87al%C4%B1%C5%9Fmalar.jpg" alt="Çalışmalarımız" title="Studies" width="400" align="left" >
+<br>
+
+
+* [Yayınlarımız için (Publications)... 📚](https://avesis.kocaeli.edu.tr/arastirma-grubu/ibel/yayinlar)
+
+* [Projelerimiz için (Projects)... 🚀](https://avesis.kocaeli.edu.tr/arastirma-grubu/ibel/projeler)
+
+* [Yönetilen Tezler için (Supervised Theses)... 🎓](https://avesis.kocaeli.edu.tr/arastirma-grubu/ibel/tezler)
+
+* [Araştırma Laboratuvarı Üyeleri (Research Laboratory Members)...👩‍💻👨‍💻](https://avesis.kocaeli.edu.tr/arastirma-grubu/ibel/grup-uyeleri)
+
+
+<br>
+<br>
+<br>
 
 ## ⚙️ Cihazlar (Devices)
 
@@ -36,7 +54,7 @@
 |:--:|:--:|:--:|
 | **Emotiv EPOC+** | **NeuroSky MindWave** | **Myo Armband** |
 
-## 👩‍🏫 Aktif Üyelerimiz (Active Members)
+## 
 
 ## 📖 Dokümanlar (Documents)
 
