@@ -11,12 +11,15 @@
 İnsan-Bilgisayar Etkileşimi *(Human-Computer Interaction)* laboratuvarı bünyesinde insanlar için kullanışlı ve kullanılabilir arayüzlerin nasıl geliştirileceğine yönelik araştırmaların yapılması hedeflenmektedir. Laboratuvarın çalışmaları içerisinde teknolojinin insanları ve toplumu nasıl etkilediğinin anlaşılması amacıyla bilgisayar sistemlerinin tasarlanmasından, geliştirilmesine ve sonrasında değerlendirilmesine kadar çeşitli fazlar ile ilgili aktiviteler gerçekleştirilmektedir.
 
 ## 🔎 Başlıca Araştırma Alanları (Main Research Areas)
+* Kullanılabilirlik ve Yazılım Mühendisliği
+* Kullanıcı Deneyimi
+* Kullanıcı Deneyimi Tasarımı
+* Kullanıcı merkezli tasarım (UCD)
 * Yenilikçi kullanıcı arayüzleri ve etkileşim teknikleri (örn. jest tabanlı arayüzler, çoklu dokunmatik etkileşimler) 
-* Kullanıcı merkezli tasarım (UCD) 
-* Doğal etkileşim 
-* Duygu tanıma
+* Doğal etkileşim
+* Beyin Bilgisayar Arayüzleri
 * EEG tabanlı duygu tanıma
-* Evrensel erişilebilirlik 
+
 <details close>
    <summary>⬇️⬇️ Dahası için ... </summary>
    
@@ -30,11 +33,7 @@
      
    * Mobilite, Mobil Erişilebilirlik, Mobil Cihazlar (Mobility/* Mobile Accessibility/Mobile Devices)
      
-   * Kullanılabilirlik ve Yazılım Mühendisliği
-     
-   * Kullanıcı Deneyimi
-     
-   * Kullanıcı Deneyimi Tasarımı
+   * Evrensel erişilebilirlik 
      
    </details>
 
