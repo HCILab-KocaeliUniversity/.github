@@ -1,6 +1,6 @@
 <h1 align="center">
    <a href="https://github.com/HCILab-KocaeliUniversity"><img src="https://github.com/HCILab-KocaeliUniversity/.github/blob/main/Media/logo/HCI-IBEL.png" alt="Human Computer Interface Laboratory Kocaeli University" width="77" align="left" ></a>
-  Human Computer Interaction Laboratory Kocaeli University
+  KOU Human Computer Interaction Laboratory
    <br>
    <br>
 </h1>
@@ -8,7 +8,7 @@
 <br>
 
 
-İBEL *(HCIL)* bünyesinde insanlar için kullanışlı ve kullanılabilir arayüzlerin nasıl geliştirileceğine yönelik araştırmaların yapılması hedeflenmektedir. Laboratuvarın çalışmaları içerisinde teknolojinin insanları ve toplumu nasıl etkilediğinin anlaşılması amacıyla bilgisayar sistemlerinin tasarlanmasından, geliştirilmesine ve sonrasında değerlendirilmesine kadar çeşitli fazlar ile ilgili aktiviteler gerçekleştirilmektedir.
+İnsan-Bilgisayar Etkileşimi *(Human-Computer Interaction)* laboratuvarı bünyesinde insanlar için kullanışlı ve kullanılabilir arayüzlerin nasıl geliştirileceğine yönelik araştırmaların yapılması hedeflenmektedir. Laboratuvarın çalışmaları içerisinde teknolojinin insanları ve toplumu nasıl etkilediğinin anlaşılması amacıyla bilgisayar sistemlerinin tasarlanmasından, geliştirilmesine ve sonrasında değerlendirilmesine kadar çeşitli fazlar ile ilgili aktiviteler gerçekleştirilmektedir.
 
 ## 🔎 Başlıca Araştırma Alanları (Main Research Areas)
 * Yenilikçi kullanıcı arayüzleri ve etkileşim teknikleri (örn. jest tabanlı arayüzler, çoklu dokunmatik etkileşimler) 
