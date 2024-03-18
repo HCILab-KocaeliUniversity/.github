@@ -17,7 +17,7 @@
 * Duygu tanıma
 * EEG tabanlı duygu tanıma
 * Evrensel erişilebilirlik 
-<details open>
+<details close>
    <summary>⬇️⬇️ Dahası için ... </summary>
    
    * Sosyal medya/sosyal ağlar
