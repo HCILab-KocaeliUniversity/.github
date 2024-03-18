@@ -14,11 +14,11 @@
 * Kullanılabilirlik ve Yazılım Mühendisliği
 * Kullanıcı Deneyimi
 * Kullanıcı Deneyimi Tasarımı
-* Kullanıcı merkezli tasarım (UCD)
-* Yenilikçi kullanıcı arayüzleri ve etkileşim teknikleri (örn. jest tabanlı arayüzler, çoklu dokunmatik etkileşimler) 
-* Doğal etkileşim
+* Kullanıcı Merkezli Tasarım (UCD)
+* Yenilikçi Kullanıcı Arayüzleri ve Etkileşim Teknikleri (örn. jest tabanlı arayüzler, çoklu dokunmatik etkileşimler) 
+* Doğal Etkileşim
 * Beyin Bilgisayar Arayüzleri
-* EEG tabanlı duygu tanıma
+* EEG Tabanlı Duygu Tanıma
 
 <details close>
    <summary>⬇️⬇️ Dahası için ... </summary>
