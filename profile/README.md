@@ -1,6 +1,6 @@
 <h1 align="center">
    <a href="https://github.com/HCILab-KocaeliUniversity"><img src="https://github.com/HCILab-KocaeliUniversity/.github/blob/main/Media/logo/HCI-IBEL.png" alt="Human Computer Interface Laboratory Kocaeli University" width="77" align="left" ></a>
-  Human Computer Interface Laboratory Kocaeli University
+  Human Computer Interaction Laboratory Kocaeli University
    <br>
    <br>
 </h1>
