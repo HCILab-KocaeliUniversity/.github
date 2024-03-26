@@ -44,13 +44,13 @@
 <br>
 
 
-* [Yayınlarımız için (Publications)... 📚](https://avesis.kocaeli.edu.tr/arastirma-grubu/ibel/yayinlar)
+* [Yayınlarımız için (Publications) 📚](https://avesis.kocaeli.edu.tr/arastirma-grubu/ibel/yayinlar)
 
-* [Projelerimiz için (Projects)... 🚀](https://avesis.kocaeli.edu.tr/arastirma-grubu/ibel/projeler)
+* [Projelerimiz için (Projects) 🚀](https://avesis.kocaeli.edu.tr/arastirma-grubu/ibel/projeler)
 
-* [Yönetilen Tezler için (Supervised Theses)... 🎓](https://avesis.kocaeli.edu.tr/arastirma-grubu/ibel/tezler)
+* [Yönetilen Tezler için (Supervised Theses) 🎓](https://avesis.kocaeli.edu.tr/arastirma-grubu/ibel/tezler)
 
-* [Araştırma Laboratuvarı Üyeleri (Research Laboratory Members)...👩‍💻👨‍💻](https://avesis.kocaeli.edu.tr/arastirma-grubu/ibel/grup-uyeleri)
+* [Araştırma Laboratuvarı Üyeleri (Research Laboratory Members) 👩‍💻👨‍💻](https://avesis.kocaeli.edu.tr/arastirma-grubu/ibel/grup-uyeleri)
 
 
 <br>
@@ -72,10 +72,9 @@
 
 ## 📞 İletişim (Contact)
 
-
 ✉️ ibel@kocaeli.edu.tr
 
-✉️ pinar.onaydurdu@kocaeli.edu.tr
+✉️ kou.hci.lab@gmail.com
 
 🏫 Kocaeli Üniversitesi, Bilgisayar Mühendisliği Bölümü İnsan Bilgisayar Etkileşimi Laboratuvarı Umuttepe Kampüsü, Mühendislik Fakültesi, B Blok, Bilgisayar Mühendisliği Bölümü, Kat 3, İzmit/KOCAELİ
 
